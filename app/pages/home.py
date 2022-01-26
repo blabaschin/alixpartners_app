@@ -2,7 +2,8 @@ import streamlit as st
 import boto3
 
 def run():
-    st.header("Welcome to the Workhelix!")
+    st.balloons()
+    st.header("Welcome to Workhelix!")
 
     st.subheader("Useful Links")
     st.markdown("---")
